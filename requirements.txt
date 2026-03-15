@@ -1,0 +1,4 @@
+# No direct Python dependencies are required for the core script itself,
+# as it uses standard libraries to orchestrate external tools.
+# However, ensure the following tools are installed in your system:
+# subfinder, assetfinder, httpx, waybackurls, gau, katana, dirsearch, nuclei, strix
